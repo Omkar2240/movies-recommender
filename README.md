@@ -45,8 +45,8 @@ movie-recommender/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Omkar2240/movie-recommender-full-stack.git
-cd movie-recommender-full-stack
+git clone https://github.com/Omkar2240/movie-recommender.git
+cd movie-recommender
 
 2. Install & Run Backend
 bash
@@ -82,4 +82,3 @@ Script: predict.py takes movie name and returns similar movies in JSON
 
 
 
-# movies-recommender
