@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Try again to save the README content into a file
-readme_content = """
 # 🎬 Movie Recommendation System (Part 2)
 
 A full-stack **Movie Recommendation System** built using **Python (ML model)**, **Node.js (backend)**, and **Next.js + ShadCN UI (frontend)**.
