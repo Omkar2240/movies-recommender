@@ -26,12 +26,10 @@ A full-stack **Movie Recommendation System** built using **Python (ML model)**, 
 movie-recommender/
 ├── backend/ # Node.js server
 │ └── server.js
+│ |__ predict.py # Python script
 ├── frontend/ # Next.js + ShadCN UI
 │ └── app/
 │ └── page.tsx
-├── model/ # ML assets
-│ ├── movies_list.pkl
-│ └── similarity.pkl
 ├── predict.py # Python script
 └── README.md
 
